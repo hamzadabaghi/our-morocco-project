@@ -1,0 +1,444 @@
+
+
+
+
+
+
+
+/***********************************             Body          ************************************************************/
+
+														body{				
+
+															color: #ffffff;
+
+														   }
+
+
+/**********************************             End                               *************************************/
+
+
+
+
+
+
+
+
+
+/**********************************             Header                              *************************************/
+
+
+
+
+															  /*********  bacground  **************/
+
+															  .pic_nav
+
+															  {
+															  	width: 100%;
+															    opacity: 1;
+															    border-color:black;
+															    box-shadow: 0.5px 0.5px 0.5px 0.5px black;
+															 
+															  }
+
+
+															  /*********logo site***********/
+															  .logo_site{
+
+															  	width: 50%;
+															  	position:absolute;
+															  	top:20px;
+															  	right:20px;
+															  	opacity: 1;
+
+															 
+
+															  }
+
+
+
+															  /********hover de lien ********/
+															     .navbar-inverse .navbar-nav > li > a:hover {
+																  background-color: #c5bc19;
+																 
+																                                            }
+
+
+															 /*************** couleur de navbar *********************/
+															 .navbar-inverse {
+																    background-color: #6a0000;
+																    border-color: #080808;
+																    margin-bottom: 0px;
+																    box-shadow: 0px 3px 4px 0px #040818;
+
+																}
+
+
+                                                             /********** taille et couleur de nav **********************/
+
+														     .navbar-inverse .navbar-nav > li > a {
+																    color: #ffffff;
+																    font-size: 17px;
+																    font-weight: bold;
+																    font-family: merienda;
+																																   
+																}
+
+																/******** navbar dropdown **********/
+																.navbar-nav > li > .dropdown-menu :hover{
+																	background-color: #c5bc19;
+
+																}
+																
+																	   
+																	
+																
+																																
+
+
+
+/**********************************             End                               *************************************/
+
+
+
+
+
+
+
+
+
+/**********************************           Center                    *******************************************************/
+
+
+
+
+
+
+
+
+
+
+												 div.gallery {
+											     margin: 5px;
+												 border: 1px solid #ccc;
+												 float: left;
+												 width: 300px;
+
+													}
+
+													div.gallery:hover {
+													  border: 1px solid #777;
+													}
+
+													div.gallery img {
+													  width: 100%;
+													  height: 235px;
+													}
+
+													div.desc {
+													  padding: 2px;
+													  text-align: center;
+													}
+
+
+													/* video */
+
+
+													audio, canvas, progress, video
+													{
+													     border: 1px solid #fffbfb;
+													     
+													     margin-bottom: 30px;
+													     margin-left: auto;
+													     margin-right: auto;
+													     box-shadow: 0px 0px 4px 2px #040818;
+													     
+													}
+
+													/**** qui sommes nous *******/
+													.my_picture{
+														height: 170px;
+														margin-right:auto;
+														margin-left:auto;
+														padding: -7px ;
+														border: 2px dotted white;
+													}
+
+													/***** sidenav *****/
+													
+													/* Style the links inside the sidenav */
+
+													
+													#mySidenav a {
+
+													  position:absolute;
+													  left: -80px;
+													  /* Position them outside of the screen */
+													  transition: 0.3s; /* Add transition on hover */
+													  padding: 10px; /* 15px padding */
+													  width: 100px; /* Set a specific width */
+													  text-decoration: none; /* Remove underline */
+													  font-size: 19px; /* Increase font size */
+													  color: white; /* White text color */
+													  border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+													  justify-content: space-around;
+
+													}
+
+													#mySidenav a:hover {
+													  left: 0; /* On mouse-over, make the elements appear as they should */
+													}
+
+													/* The about link: 20px from the top with a green background */
+													#sitem {
+													  top: 7px;
+													  background-color: #064808;
+													  box-shadow: 0px 0px 4px 2px #040818;
+													}
+
+													#villein {
+													  top: 93px;
+													  background-color: #df0000; /* red */
+													  box-shadow: 0px 0px 4px 2px #040818;
+													}
+
+													#lienut {
+													  top: 180px;
+													  background-color: #064808; /* Red */
+													  box-shadow: 0px 0px 4px 2px #040818;
+													}
+
+													#carte {
+													  top: 269px;
+													  background-color: #df0000; /* Light Black */
+													  box-shadow: 0px 0px 4px 2px #040818;
+													}
+
+													/**** login ****/
+
+													.submit
+													{
+														width: 100px;
+													}
+													.presentation
+													{
+														font-family: merienda;
+														font-size: 2em;
+														font-weight: bold;		
+													}
+
+													/*** color well ***/
+													.well {
+														    background-image: linear-gradient(#660000 ,#082b08 );
+														    padding: 50px;
+														    box-shadow: 0px 0px 4px 2px #040818;
+														    margin-bottom: 83px;
+
+
+														    
+
+
+														}
+													.mynewsletter
+													{
+														background-color:#2c4201;
+														border:1px solid white;
+														padding: 31px;
+														max-width: 80%;
+														margin-right:auto;
+														margin-left:auto;
+														height: auto;
+														box-shadow: 0px 0px 4px 2px #040818;
+														margin-bottom: 70px;
+}
+
+													}
+													.progress_bar
+													{
+														margin-top: 150px;
+														background-color: #040818;
+														padding-top: 35px;
+														padding-left: 30px;
+														padding-bottom: 35px;
+													}
+													.questions_frequent
+													{
+														background-color: #040813;
+														padding-top: 35px;
+														padding-bottom: 45px;
+														padding-left: 17px;
+														
+													}
+
+										
+
+
+/**********************************             End                               *************************************/
+
+
+
+
+
+
+
+
+/**********************************           Footer                    *******************************************************/
+
+													/* button scroll */
+														#myBtn {
+														  display: none;
+														  position: fixed;
+														  bottom: 20px;
+														  right: 30px;
+														  z-index: 99;
+														  font-size: 18px;
+														  border: none;
+														  outline: none;
+														  background-color: red;
+														  color: white;
+														  cursor: pointer;
+														  padding: 15px;
+														  border-radius: 4px;
+														}
+
+														#myBtn:hover {
+														  background-color: #555; }
+
+														 .btn-danger {
+														    color: #fff;
+														    background-color: #7d0400;
+														    border-color: #d43f3a;
+														}
+
+
+														/* qui sommes nous */
+
+														.about-me{
+														    background-color: #0e0f34;
+														    border-radius: 30px;
+														    height: 440px;
+														    box-shadow: 1px 1px 4px 1px #601a1a;
+
+
+														}
+
+														/*  start contact us  */
+														textarea.input-lg, select[multiple].input-lg {
+														    height: 107px;
+														}
+														.form-control{
+														    color: #ffffff;
+														    background-color: #33373b;
+														}
+
+
+
+														/* section subscribe */
+
+														.subscribe
+
+														{
+														      padding-top: 100px;
+														      padding-bottom: 40px;
+														      background: #232230;
+														      
+														      padding-bottom: 81px;
+
+														}
+														.subscribe h1
+														{
+														    color:#7cd6ff;
+														    letter-spacing: 2px;
+														    margin-bottom: 20px;
+														}
+														.subscribe p
+														{
+														    margin-bottom: 30px;
+														}
+														.subscribe .form-control
+														{
+														    width: 280px;
+														}
+
+														.subscribe .form-control {
+														    width: 280px;
+														    margin: auto;
+														    margin-bottom: 5px;
+														}
+														.btn-lg, .btn-group-lg > .btn {
+														    padding: -3px 20px;
+														    font-size: 21px;
+														    line-height: 1.3333333;
+														    border-radius: -19px;
+														}
+														.btn-primary
+														{
+														color: #fff;
+													    background-color: #0d3d67;
+										   			    border-color: #2e6da4;
+										     			}
+
+
+
+														/* footer */ 
+
+														.footer
+														{
+															background: #222;
+															color:#AAA;
+															padding-top: 50px;
+
+
+														}
+
+														.footer h3
+
+														{
+															color: #0895D1;
+															letter-spacing: 2px;
+															margin: 30px 0 20px;
+														}
+														.footer .social-list li
+														{
+															float:left;
+															margin-right: 3pc;
+															opacity: 0.7;
+														}
+															
+														/* les liens */
+														a {
+														    color:#c9c921;
+														    text-decoration: none;
+														        font-family: cursive;
+														    
+														}
+                                                        /* list sociaux*/
+                                                        .list-unstyled {
+														    padding-left: 0;
+														    list-style: none;
+														    /*padding: 8px;*/
+														}
+													
+
+
+														/* copyright */
+
+														.footer .copyright
+
+														{
+														    padding: 35px 0;
+														    font-size: 16px;
+														}
+														.footer .copyright span
+
+														{
+														    color: #0895D1;
+														    opacity: 0.8;
+														}
+
+
+
+/**********************************             End                               *************************************/
+
+
+
