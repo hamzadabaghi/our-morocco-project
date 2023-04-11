@@ -1,5 +1,5 @@
 
-This is an academic project, it consists to develop a website for tourism in Morocco.
+This is my first academic project, it consists to develop a website for tourism in Morocco.
 
 # Technologies : PHP | JS | HTML | BOOTSTRAP | CSS
 
